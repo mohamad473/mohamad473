@@ -4,12 +4,20 @@
 
 
 
-![2cae9b45830d218b0d050f32fc57ec27](https://github.com/mohamad473/mohamad473/assets/159455125/071aba9d-45f7-4659-ae14-404fc7b15aa1)
+Driven web developer deeply passionate about creating engaging digital experiences. With a love for problem-solving and a commitment to excellence, I thrive on turning ideas into reality through elegant code and intuitive designs. Constantly exploring new technologies and pushing boundaries, I'm dedicated to delivering impactful solutions that exceed expectations.
 
-![0660efe82fa3da42ed56eef013171835](https://github.com/mohamad473/mohamad473/assets/159455125/21f702eb-5f51-47b1-9832-9dc46248c8f9)
+### 🧰 Languages and Tools
+<img align="left" width="30px" style= "padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+ <img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ <img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+ <img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" width="30px" style= "padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-
-![giphy](https://github.com/mohamad473/mohamad473/assets/159455125/68714396-908c-4a2c-ba53-5ef0e62b1714)
 
 <!---
 mohamad473/mohamad473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
